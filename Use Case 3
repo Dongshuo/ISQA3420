@@ -1,1 +1,26 @@
 Use Case: Manage code
+¡  Title: Manage code
+
+¡  Primary Actor: Corporate Manager and developer
+
+¡  Goal in Context: The corporate manager/developer is able to determine and manage code
+
+¡  Stakeholders:
+
+¡  Corporate Manager: To receive clear and relevant project information and code information
+
+¡  Corporate Developer: To provide the relevant file/package level information
+
+¡  Project Owner: To clearly understand corporate manager decisions to green/red light a project
+
+¡  Preconditions:
+
+¡  Relevant file/package information is available
+
+¡  Main Success Scenario: Corporate manager and developer receive accurate code information.
+
+¡  Failed End Conditions: Corporate manager receives inaccurate or invalid license and vulnerability information for the requested project packages
+
+¡  Trigger: Corporate manager and developer a file/package to manage code.
+
+ 
