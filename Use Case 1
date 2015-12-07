@@ -1,0 +1,15 @@
+Title: Mange project information
+
+Primary Actor: Corporate Manager
+
+Goal in Context: Corporate Manager should to manage code information.
+
+Stakeholders: Corporate manager and corporate developer.
+
+Preconditions: The project file exists in the SPDX database.
+
+Main Success Scenario: Corporate manager obtains and manages project information.
+
+Failed End Conditions: Corporate manager is fails to manage project information.
+
+Trigger: Corporate manager wants to manage a project.
